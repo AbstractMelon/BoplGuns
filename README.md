@@ -1,6 +1,6 @@
 # **Installation**
 
-**1.** Download the .zip file.
+**1.** [Download the .zip file.](https://github.com/ShAdowDev16/BoplGuns/releases)
 
 **2.** Extract the .zip file and put the BoplGuns folder inside it into your plugins folder.
 
